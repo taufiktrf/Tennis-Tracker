@@ -17,7 +17,7 @@ video_frames = read_video(r"input_videos/" + video_name)
 
 output_frames = []
 
-for frame in video_frames[:10]:
+for frame in video_frames:
 
     # Predicting Four Corner Points of the Court
     corners = court_extractor_model.predict(frame)[:8].reshape((-1, 2))
