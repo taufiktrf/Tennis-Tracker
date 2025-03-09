@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+output_for_input_video_1.mp4
+output_for_input_video_2.mp4
+output_for_input_video_3.mp4
