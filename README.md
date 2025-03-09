@@ -50,7 +50,7 @@ Tennis-Tracker/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Tennis-Tracker.git
+   git clone https://github.com/taufiktrf/Tennis-Tracker.git
    cd Tennis-Tracker
    ```
 
